@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-consumer",
+  "version": "1.0.0",
+  "description": "API para consumir a node-sqs-queueing e fazer o disparo. Utilizada para colocar em prática tratativa de fila e mensageria.",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Siqueira",
+  "license": "ISC"
+}
